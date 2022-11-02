@@ -31,13 +31,13 @@ An application that finds the shortest possible delivery route within specified 
 
 ## 👩🏻‍💻 Navigation
 1. Follow the prompts in the terminal
-  * Enter '1' to check the status of a package by ID
-    * Enter 'Package ID' (1-40)
-    * Enter time HH:MM:SS
-    * See delivery status of specified package
-  * Enter '2' to check the status of all packages
-    * Enter time HH:MM:SS
-    * See delivery status of all packages
+    * Enter '1' to check the status of a package by ID
+      * Enter 'Package ID' (1-40)
+      * Enter time HH:MM:SS
+      * See delivery status of specified package
+    * Enter '2' to check the status of all packages
+      * Enter time HH:MM:SS
+      * See delivery status of all packages
 
 ## ⚡️Technologies Used
 * Python
