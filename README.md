@@ -4,6 +4,10 @@
 </p>
 An application that finds the shortest possible delivery route within specified constraints. Packages are distributed between three trucks & two drivers, and trucks are required to deliver all packages while traveling under a combined 140 miles.
 
+### Constraints
+* One
+* Two
+
 ## 🔗 Demo
 
 ## 🔧 Installation
