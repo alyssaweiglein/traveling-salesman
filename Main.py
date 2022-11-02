@@ -4,7 +4,7 @@ import datetime
 
 # CLI application to interact with the simulator
 class Main:
-    print("\nQuickRoute")
+    print("\nQuickRoute (traveling-salesman)")
     print('All packages delivered in', "{0:.2f}".format(get_total_distance(), 2), 'miles.')
 
     while True:
