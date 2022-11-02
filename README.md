@@ -4,8 +4,10 @@
 </p>
 An application that finds the shortest possible delivery route within specified constraints. Packages are distributed between three trucks & two drivers, and trucks are required to deliver all packages while traveling under a combined 140 miles.
 
+
 <details>
   <summary>Constraints</summary>
+  
   * Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
   * The trucks travel at an average speed of 18 miles per hour and have an infinite amount of gas with no need to stop.
   There are no collisions.
