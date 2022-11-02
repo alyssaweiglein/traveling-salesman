@@ -4,8 +4,7 @@
 </p>
 An application that finds the shortest possible delivery route within specified constraints. Packages are distributed between three trucks & two drivers, and trucks are required to deliver all packages while traveling under a combined 140 miles.
 
-<details>
-  <summary>#### Constraints</summary>
+## ⛓️ Constraints
   * Each truck can carry a maximum of 16 packages, and the ID number of each package is unique.
   * The trucks travel at an average speed of 18 miles per hour and have an infinite amount of gas with no need to stop.
   * There are no collisions.
@@ -16,7 +15,6 @@ An application that finds the shortest possible delivery route within specified 
   * The delivery address for package #9, Third District Juvenile Court, is wrong and will be corrected at 10:20 a.m. WGUPS is aware that the address is incorrect and will be updated at 10:20 a.m. However, WGUPS does not know the correct address (410 S State St., Salt Lake City, UT 84111) until 10:20 a.m.
   * The distances provided in the WGUPS Distance Table are equal regardless of the direction traveled.
   * The day ends when all 40 packages have been delivered.
-</details>
 
 ## 🔗 Demo
 
