@@ -27,10 +27,10 @@ An application that finds the shortest possible delivery route within specified 
 2. Unzip the folder
 3. Install [Python](https://www.python.org/downloads/)
 4. Open the ```Main.py``` file in your IDE
-5. Press 'run'
 
 ## 👩🏻‍💻 Navigation
-1. Follow the prompts in the terminal
+1. Click 'run'
+2. Follow the prompts in the terminal
     * Enter '1' to check the status of a package by ID
       * Enter 'Package ID' (1-40)
       * Enter time HH:MM:SS
